@@ -101,7 +101,7 @@ export default function AboutPage() {
                 <Leaf className="h-6 w-6" />
               </div>
               <div>
-                <Badge className="mb-1 bg-green-100 text-green-700">책이음 AI 챌린지 2025</Badge>
+                <Badge className="mb-1 bg-green-100 text-green-700">책이음서비스 공모전「AI 활용 아이디어 챌린지」</Badge>
                 <CardTitle className="text-xl">Eco-Flow: AI 기반 초연결 상호대차 최적화 시스템</CardTitle>
               </div>
             </div>

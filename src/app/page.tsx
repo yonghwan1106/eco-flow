@@ -60,7 +60,7 @@ export default function Home() {
       <div className="px-6 py-16">
         <div className="max-w-4xl mx-auto text-center">
           <Badge className="mb-4 bg-green-100 text-green-700 hover:bg-green-100">
-            책이음 AI 챌린지 2025
+            책이음서비스 공모전「AI 활용 아이디어 챌린지」
           </Badge>
           <h1 className="text-4xl font-bold tracking-tight mb-4">
             <span className="text-green-600">Eco-Flow</span>

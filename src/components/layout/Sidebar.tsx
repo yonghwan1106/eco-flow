@@ -93,7 +93,7 @@ export function Sidebar() {
         <div className="border-t p-4">
           <div className="flex items-center gap-2 text-xs text-muted-foreground">
             <BookOpen className="h-4 w-4" />
-            <span>책이음 AI 챌린지 2025</span>
+            <span>책이음서비스 공모전「AI 활용 아이디어 챌린지」</span>
           </div>
         </div>
       </div>
